@@ -1,0 +1,71 @@
+===========================================================================
+Advanced engine needed  : GZDoom, Zandronum
+Primary purpose         : Single play
+===========================================================================
+Title                   : Blood Machine
+Filename                : BloodMachine.wad
+Release date            : 06/10/2022
+Author                  : Whark
+Email Address           : c7ein37q@duck.com
+
+Description             : A small, Doom II map focused on atmosphere and
+                          tight, concise encounters.
+
+                          Jumping, crouching, freelook, sprinting, gameplay mods
+                          welcome and encouraged but not required.
+
+Your Objective
+                          Deal with the turned crew of Rig 31, cleanse the
+                          bowels of the machine, shut down the blood machine.
+
+Additional Credits to   : id Software
+                          BouncyTEM
+                          Doomenator
+                          Ransu
+                          PlutonianEmpire
+===========================================================================
+* What is included *
+
+New levels              : 1
+Sounds                  : Yes
+Music                   : Yes
+Graphics                : Yes
+Dehacked/BEX Patch      : No
+Demos                   : No
+Other                   : No
+Other files required    : None
+
+
+* Play Information *
+
+Game                    : Doom II
+Map #                   : 01
+Single Player           : Designed for
+Cooperative 2-4 Player  : Set up for, not thoroughly tested
+Deathmatch 2-4 Player   : No
+Other game styles       : None
+Difficulty Settings     : Yes
+
+
+* Construction *
+
+Base                    : New from scratch
+Build Time              : ~2 weeks
+Editor(s) used          : GZDoom Builder
+Known Bugs              : Not tested well in co-op
+
+Tested With             : GZDoom 4.8.0, Zandronum 3.1
+
+
+* Copyright / Permissions *
+
+This work is licensed under the Creative Commons Attribution 4.0
+International License. To view a copy of this license, visit
+http://creativecommons.org/licenses/by/4.0/
+
+You are free to copy and redistribute the material in any medium or format;
+and remix, transform, and build upon the material for any purpose, even
+commercially. If you do so, you must give appropriate credit, provide a link
+to the license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses you
+or your use.
